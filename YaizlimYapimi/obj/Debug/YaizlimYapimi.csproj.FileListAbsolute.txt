@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\bin\Debug\YaizlimYapimi.exe.config
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\bin\Debug\YaizlimYapimi.exe
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\bin\Debug\YaizlimYapimi.pdb
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\obj\Debug\YaizlimYapimi.Form1.resources
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\obj\Debug\YaizlimYapimi.Properties.Resources.resources
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\obj\Debug\YaizlimYapimi.csproj.GenerateResource.Cache
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\obj\Debug\YaizlimYapimi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\obj\Debug\YaizlimYapimi.exe
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\obj\Debug\YaizlimYapimi.pdb
+C:\Users\DELL\source\repos\YaizlimYapimi\YaizlimYapimi\obj\Debug\YaizlimYapimi.csprojResolveAssemblyReference.cache
